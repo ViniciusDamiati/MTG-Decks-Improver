@@ -1,0 +1,89 @@
+Commander
+1 Jetmir, Nexus of Revels (SNC) 193
+
+Deck
+1 Ossification (ONE) 26
+7 Plains (FDN) 273
+5 Mountain (FDN) 279
+5 Forest (FDN) 281
+1 Adeline, Resplendent Cathar (MID) 1
+1 Akroma's Will (FCA) 21
+1 Toski, Bearer of Secrets (SPG) 60
+1 Thunderbond Vanguard (Y25) 2
+1 Felidar Retreat (FDN) 574
+1 Tajic, Legion's Valor (Y24) 28
+1 Heroic Intervention (M21) 188
+1 Prosperous Innkeeper (HBG) 221
+1 Verdant Command (MH2) 182
+1 Brigid, Clachan's Heart (ECL) 7
+1 Champion of Lambholt (JMP) 383
+1 Cultivate (STA) 51
+1 Garruk's Uprising (FDN) 220
+1 Dalkovan Encampment (TDM) 253
+1 Tribute to the World Tree (MOM) 211
+1 Esika's Chariot (KHM) 169
+1 Doubling Season (FDN) 216
+1 Awaken the Woods (BRO) 170
+1 Warleader's Call (MKM) 242
+1 Anim Pakal, Thousandth Moon (LCI) 223
+1 Sundown Pass (VOW) 266
+1 Join the Dance (MID) 229
+1 Torens, Fist of the Angels (VOW) 249
+1 Overgrown Farmland (MID) 265
+1 Arcane Signet (ANB) 117
+1 Swiftfoot Boots (FDN) 258
+1 Akroma's Memorial (SPG) 0
+1 Command Tower (ANB) 118
+1 Fabled Passage (ELD) 244
+1 Reliquary Tower (M19) 254
+1 Wooded Foothills (KTK) 249
+1 Path to Exile (OTP) 6
+1 Ajani, Nacatl Pariah (MH3) 237
+1 Brimaz, King of Oreskos (J25) 58
+1 Teferi's Protection (STA) 11
+1 Unbreakable Formation (RNA) 29
+1 Toby, Beastie Befriender (DSK) 35
+1 Myrel, Shield of Argive (BRO) 18
+1 Rabble Rousing (SNC) 24
+1 Elspeth, Sun's Champion (PIO) 321
+1 Swords to Plowshares (STA) 10
+1 Purphoros, God of the Forge (PIO) 296
+1 Birds of Paradise (BLC) 81
+1 Krosan Grip (STA) 53
+1 Defense of the Heart (WOT) 51
+1 Pest Infestation (OTP) 30
+1 Rhys the Redeemed (SHM) 237
+1 Mirari's Wake (JUD) 139
+1 Ghalta and Mavren (MOM) 225
+1 Jetmir's Garden (SNC) 250
+1 Fountainport (BLB) 253
+1 Elspeth, Storm Slayer (TDM) 11
+1 Windcrag Siege (TDM) 235
+1 Khalni Garden (J21) 121
+1 Stomping Ground (RNA) 259
+1 Battlefield Forge (BRO) 257
+1 Sunbillow Verge (DFT) 264
+1 Brushland (BRO) 259
+1 Temple Garden (GRN) 258
+1 Arid Mesa (SPG) 109
+1 Cavern of Souls (LCI) 269
+1 Cabaretti Courtyard (SNC) 249
+1 Windswept Heath (MH3) 235
+1 Andúril, Flame of the West (LTR) 236
+1 Waystone's Guidance (Y25) 3
+1 Land Tax (WOT) 9
+1 Evendo, Waking Haven (EOE) 253
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Mondrak, Glory Dominus (ONE) 23
+1 Craterhoof Behemoth (TDM) 138
+1 Aurelia, the Warleader (MAR) 86
+1 Urabrask the Hidden (MUL) 88
+1 Jinnie Fay, Jetmir's Second (SNC) 378
+1 Skyclave Apparition (ZNR) 39
+1 Lightning Bolt (MSC) 806
+1 The Wandering Emperor (NEO) 418
+1 Llanowar Elves (J25) 149
+1 Delighted Halfling (HOC) 65
+1 Devilish Valet (SNC) 105
+1 A-Ocelot Pride (MH3) A-38
+1 A-Cori-Steel Cutter (TDM) A-103

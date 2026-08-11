@@ -1,0 +1,92 @@
+1 Abzan Falconer
+1 Akroma's Will
+1 All Will Be One
+1 Aragorn, Hornburg Hero
+1 Arcane Signet
+1 Arid Mesa
+1 Armorcraft Judge
+1 Bone Sabres
+1 Branching Evolution
+1 Bretagard Stronghold
+1 Canopy Vista
+1 Champion of Lambholt
+1 Cinder Glade
+1 Command Tower
+1 Conclave Mentor
+1 Conclave Sledge-Captain
+1 Court of Garenbrig
+1 Cultivate
+1 Damning Verdict
+1 Defiler of Vigor
+1 Doubling Season
+1 Drannith Ruins
+1 Dromoka's Command
+1 Elite Scaleguard
+1 Evolution Sage
+1 Exotic Orchard
+1 Fabled Passage
+6 Forest
+1 Forgotten Ancient
+1 Fortified Village
+1 Furycalm Snarl
+1 Gavony Township
+1 Generous Gift
+1 Good-Fortune Unicorn
+1 Guardian Scalelord
+1 Gyre Sage
+1 Halana and Alena, Partners
+1 Hamza, Guardian of Arashin
+1 Hardened Scales
+1 Heliod, Sun-Crowned
+1 Heroic Intervention
+1 Hindervines
+1 Idyllic Grange
+1 Incubation Druid
+1 Inspiring Call
+1 Jetmir's Garden
+1 Jungle Shrine
+1 Juniper Order Ranger
+1 Kalonian Hydra
+1 Kami of Whispered Hopes
+1 Karn's Bastion
+1 Kessig Wolf Run
+1 Kodama of the West Tree
+1 Kodama's Reach
+1 Llanowar Reborn
+1 Managorger Hydra
+1 Master Chef
+1 Mayael's Aria
+1 Mirror-Style Master
+1 Mosswort Bridge
+2 Mountain
+1 Ozolith, the Shattered Spire
+1 Path to Exile
+4 Plains
+1 Pridemalkin
+1 Return to Nature
+1 Rhythm of the Wild
+1 Rishkar, Peema Renegade
+1 Rishkar's Expertise
+1 Rogue's Passage
+1 Sacred Foundry
+1 Semester's End
+1 Shalai and Hallar
+1 Shalai, Voice of Plenty
+1 Silkguard
+1 Sol Ring
+1 Stomping Ground
+1 Strionic Resonator
+1 Swiftfoot Boots
+1 Sword of Truth and Justice
+1 Swords to Plowshares
+1 Temple Garden
+1 The Great Henge
+1 The Ozolith
+1 Uncivil Unrest
+1 Virtue of Loyalty
+1 Vorinclex, Monstrous Raider
+1 Walking Ballista
+1 Windswept Heath
+1 Wooded Foothills
+
+1 Bright-Palm, Soul Awakener

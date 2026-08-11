@@ -1,0 +1,101 @@
+Commander
+1 Najeela, the Blade-Blossom (FCA) 42
+
+Deck
+2 Mountain (FIN) 303
+1 Ajani, Nacatl Pariah (MH3) 237
+1 Swamp (FIN) 300
+1 Thunderbond Vanguard (Y25) 2
+1 Dalkovan Encampment (TDM) 253
+1 Garruk's Uprising (FDN) 220
+2 Plains (FIN) 294
+1 Riverpyre Verge (DFT) 260
+1 The Great Henge (ELD) 161
+1 Forest (FIN) 306
+1 A-Kargan Intimidator (ZNR) 145
+1 Searslicer Goblin (FDN) 93
+1 Warrior's Sword (FIN) 169
+1 Roaming Throne (LCI) 258
+1 Blazemire Verge (DSK) 256
+1 A-Kargan Warleader (ZNR) 224
+1 Chatterfang, Squirrel General (BLC) 82
+1 Railway Brawler (OTJ) 175
+1 Alesha, Who Laughs at Fate (FDN) 115
+1 Smothering Tithe (RNA) 22
+1 Grand Warlord Radha (DAR) 195
+1 Rhys the Redeemed (SHM) 237
+1 Zurgo, Thunder's Decree (TDM) 237
+1 Mardu Charm (KTK) 186
+1 Oketra's Monument (AKR) 277
+1 Felothar, Dawn of the Abzan (TDM) 184
+1 Swiftfoot Boots (FDN) 258
+1 Boseiju, Who Endures (NEO) 266
+1 Growing Rites of Itlimoc (LCI) 188
+1 Wooded Foothills (MH3) 236
+1 Windswept Heath (MH3) 235
+1 Unclaimed Territory (XLN) 258
+1 Three Tree City (BLB) 260
+1 Secluded Courtyard (FDN) 267
+1 Scalding Tarn (SPG) 112
+1 Orcrist, Goblin-cleaver (HOB) 177
+1 Polluted Delta (MH3) 224
+1 Misty Rainforest (SPG) 111
+1 Flooded Strand (MH3) 220
+1 Fabled Passage (BLB) 252
+1 Command Tower (ANB) 118
+1 Cavern of Souls (LCI) 269
+1 Bloodstained Mire (MH3) 216
+1 Arid Mesa (SPG) 109
+1 Spara's Headquarters (SNC) 257
+1 Jetmir's Garden (SNC) 250
+1 Xander's Lounge (SNC) 260
+1 Willowrush Verge (DFT) 270
+1 Breeding Pool (RNA) 246
+1 Temple Garden (GRN) 258
+1 Hushwood Verge (DSK) 261
+1 Sunbillow Verge (DFT) 264
+1 Sacred Foundry (GRN) 254
+1 Stomping Ground (RNA) 259
+1 Wastewood Verge (DFT) 268
+1 Overgrown Tomb (GRN) 253
+1 Steam Vents (GRN) 257
+1 Bleachbone Verge (DFT) 250
+1 Samut, Vizier of Naktamun (MAT) 45
+1 Kutzil, Malamet Exemplar (LCI) 232
+1 Professional Face-Breaker (SNC) 116
+1 Alesha, Who Smiles at Death (FRF) 90
+1 Chief of the Edge (KTK) 169
+1 Surrak Dragonclaw (KTK) 206
+1 Surrak and Goreclaw (MOM) 337
+1 Teferi's Protection (STA) 11
+1 A-Winota, Joiner of Forces (IKO) 216
+1 Aven Wind Guide (AKR) 228
+1 Combat Celebrant (J25) 531
+1 Derevi, Empyrial Tactician (BLC) 87
+1 Devilish Valet (SNC) 105
+1 Gornog, the Red Reaper (J25) 49
+1 Isshin, Two Heavens as One (NEO) 224
+1 Ogre Battledriver (ANB) 80
+1 Shanna, Sisay's Legacy (MUL) 124
+1 Boros Charm (FDN) 721
+1 Cyclonic Rift (RTR) 35
+1 Heroic Intervention (M21) 188
+1 Path to Exile (OTP) 6
+1 Secure the Wastes (PIO) 30
+1 Swords to Plowshares (STA) 10
+1 Unbreakable Formation (RNA) 29
+1 Cultivate (STA) 51
+1 Farseek (FCA) 45
+1 Lightning Greaves (MRD) 199
+1 Arcane Signet (ANB) 117
+1 Chromatic Lantern (BRR) 10
+1 Rhystic Study (FCA) 31
+1 Patchwork Banner (BLB) 247
+1 Cryptolith Rite (SIR) 192
+1 Impact Tremors (FDN) 717
+1 Nature's Will (WOT) 57
+1 Raiders' Spoils (KTK) 83
+1 Warleader's Call (MKM) 242
+1 Shared Animosity (WOT) 49
+1 Ignoble Hierarch (AA2) 14
+1 Island (FIN) 297
