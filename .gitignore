@@ -4,3 +4,7 @@ all-cards-*.jsonl
 default-cards-*.jsonl
 unique-artwork-*.jsonl
 rulings-*.jsonl
+
+# Python bytecode cache from running .claude/scripts/*.py
+__pycache__/
+*.pyc
