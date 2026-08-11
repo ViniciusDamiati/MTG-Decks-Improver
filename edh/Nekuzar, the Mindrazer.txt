@@ -1,0 +1,89 @@
+1 Akoum Refuge
+1 Arcane Denial
+1 Black Vise
+1 Blightstep Pathway
+1 Careful Consideration
+1 Cascading Cataracts
+1 Collective Defiance
+1 Command Tower
+1 Commander's Sphere
+1 Commit/Memory
+1 Counterspell
+1 Crumbling Necropolis
+1 Crux of Fate
+1 Cunning Rhetoric
+1 Curiosity
+1 Dark Deal
+1 Darkslick Shores
+1 Darksteel Ingot
+1 Didn't Say Please
+1 Dimir Signet
+1 Dragonskull Summit
+1 Dream Fracture
+1 Elder Brain
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fate Unraveler
+1 Fellwar Stone
+1 Fevered Visions
+1 Font of Mythos
+1 Forced Fruition
+1 Foreboding Ruins
+1 Geier Reach Sanitarium
+1 Geth's Grimoire
+1 Graven Cairns
+1 Howling Mine
+6 Island
+1 Jace Beleren
+1 Lightning Greaves
+1 Liliana's Caress
+1 Magus of the Jar
+1 Magus of the Wheel
+1 Master of the Feast
+1 Megrim
+1 Minds Aglow
+4 Mountain
+1 Mystic Retrieval
+1 Mystical Tutor
+1 Negate
+1 Never/Return
+1 Niv-Mizzet, the Firemind
+1 Ob Nixilis, the Hate-Twisted
+1 Obelisk of Grixis
+1 Ojer Axonil, Deepest Might
+1 Orcish Bowmasters
+1 Painful Quandary
+1 Phyrexian Tyranny
+1 Propaganda
+1 Prosperity
+1 Psychic Corrosion
+1 Psychosis Crawler
+1 Rakdos Signet
+1 Reliquary Tower
+1 Salt Marsh
+1 Sangromancer
+1 Sheoldred, the Apocalypse
+1 Shivan Reef
+1 Sign in Blood
+1 Smoldering Marsh
+1 Sol Ring
+1 Solphim, Mayhem Dominus
+1 Spiteful Visions
+1 Stormfist Crusader
+6 Swamp
+1 Swiftfoot Boots
+1 Swiftwater Cliffs
+1 Teferi's Puzzle Box
+1 Temple Bell
+1 Temple of the False God
+1 Terminate
+1 Turn Aside
+1 Underworld Dreams
+1 Vandalblast
+1 Whispering Madness
+1 Windfall
+1 Winds of Change
+1 Worn Powerstone
+1 Zurzoth, Chaos Rider
+
+1 Nekusar, the Mindrazer
