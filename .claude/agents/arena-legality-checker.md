@@ -9,6 +9,11 @@ Commander-on-Arena formats. This is a narrower and differently-shaped question t
 card legal in paper Commander" — the two lists diverge in both directions, and getting this
 wrong wastes the deck owner's time crafting/wildcarding a card they can't actually play.
 
+Do NOT use the local `mtg_cards` Postgres DB (`.claude/scripts/card_db.py`) for this — it
+holds only the newest printing per card from the `oracle-cards` dump, not the full
+per-printing/`games` data across all sets that this check requires. Always hit the live
+Scryfall API for every check below.
+
 ## Why this agent exists (read before starting)
 
 Two failure modes were discovered the hard way and must not repeat:

@@ -23,8 +23,9 @@ lives in `DECK-IMPROVEMENT-GUIDE.md` — read it before doing any deck-improveme
 ## Non-negotiable rules
 
 1. **Verify oracle text before every decision.** Never cut, add, keep, or describe a card
-   from memory — fetch it from Scryfall first. Past sessions were corrected multiple times
-   because remembered card text was wrong (Divine Visitation, Toby, Brigid, Aragorn).
+   from memory — look it up first (local card DB, falling back to live Scryfall — see
+   below). Past sessions were corrected multiple times because remembered card text was
+   wrong (Divine Visitation, Toby, Brigid, Aragorn).
 2. **Swaps are 1:1.** The deck stays at 100 through every edit.
 3. **Every swap needs a data point** (EDHREC inclusion/synergy %, tournament presence) plus
    a reason derived from verified text.
@@ -35,10 +36,21 @@ lives in `DECK-IMPROVEMENT-GUIDE.md` — read it before doing any deck-improveme
 
 ## Data sources (what works / what doesn't)
 
-- **mtgtop8 cEDH — always the FIRST reference**: https://mtgtop8.com/format?f=cEDH
-  Check the commander's competitive record there before consulting EDHREC or anything
-  else; if the commander is absent from cEDH, record that as a finding.
-- **Scryfall API** (docs: https://scryfall.com/docs/api):
+- **Local card database — always check FIRST for oracle text/color identity**:
+  `python .claude/scripts/card_db.py "Card Name" ["Card Name" ...]` queries a local
+  Postgres DB (`mtg_cards`, table `cards`) loaded from Scryfall's `oracle-cards` bulk
+  dump (one row per unique card, exact name match then trigram fuzzy fallback). Prints
+  one JSON object per line; `"found": false` means the card isn't in the local dump
+  (brand new card, or DB stale) — fall back to the live Scryfall lookup below for those.
+  Refresh periodically (new sets/errata land every few weeks) with
+  `python .claude/scripts/refresh_card_db.py`. Schema: `.claude/scripts/schema.sql`.
+  **Does not replace `arena-legality-checker`** — the dump has only the newest printing
+  per card, not full per-printing/Arena-availability data.
+- **mtgtop8 cEDH — always the FIRST reference for competitive data**:
+  https://mtgtop8.com/format?f=cEDH. Check the commander's competitive record there
+  before consulting EDHREC or anything else; if the commander is absent from cEDH,
+  record that as a finding.
+- **Scryfall API** (docs: https://scryfall.com/docs/api) — use when the local DB misses:
   - Lookup: `GET https://api.scryfall.com/cards/named?fuzzy=<name>`
     (https://scryfall.com/docs/api/cards/named) — requires BOTH `User-Agent` and
     `Accept: application/json` headers. Loop per card (~0.1s sleep); the batch POST
@@ -62,7 +74,7 @@ lives in `DECK-IMPROVEMENT-GUIDE.md` — read it before doing any deck-improveme
   says they play on Arena.
 - Skill `/card-check <card names>` — fetch verified oracle text for specific cards.
 - Skill `/deck-audit <deck>.txt` — legality pass: count, duplicates, color identity.
-- Agent `card-verifier` — batch-fetches oracle texts from Scryfall.
+- Agent `card-verifier` — batch-fetches oracle texts, local DB first then Scryfall for misses.
 - Agent `edhrec-researcher` — pulls commander stats, top cards, and the average decklist.
 - Agent `arena-legality-checker` — verifies whether specific cards actually exist and are
   legal on MTG Arena (distinct from paper Commander legality — see the Arena file-convention
