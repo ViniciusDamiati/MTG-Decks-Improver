@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python \"D:/Projects/MTG/Decks improvements/.claude/hooks/check-deck-count.py\""
+            "command": "python \"D:/Projects/MTG/MTG-Decks-Improver/.claude/hooks/check-deck-count.py\""
           }
         ]
       }
