@@ -1,0 +1,77 @@
+Commander
+1 Urza, Lord High Artificer (FCA) 5
+
+Deck
+1 Fabricate (SPG) 20
+27 Island (KTK) 252
+1 Time Stop (FDN) 166
+1 Counterspell (FCA) 4
+1 Negate (ZNR) 71
+1 Ponder (LRW) 79
+1 Buried Ruin (JMP) 491
+1 Seat of the Synod (J25) 773
+1 Mind Stone (WTH) 153
+1 Guardian Idol (JMP) 467
+1 Curiosity (WOT) 17
+1 Brainstorm (FCA) 28
+1 Flusterstorm (MH3) 496
+1 Solemn Simulacrum (FDN) 257
+1 Reliquary Tower (M19) 254
+1 Coldsteel Heart (CSP) 136
+1 Aether Spellbomb (JMP) 456
+1 Pact of Negation (AKR) 73
+1 Opt (DAR) 60
+1 Polluted Delta (MH3) 224
+1 Unwinding Clock (BRR) 61
+1 Cephalid Coliseum (MH3) 300
+1 Sapphire Medallion (MH3) 296
+1 Compulsion (WOT) 15
+1 Spell Pierce (DFT) 64
+1 Mindbreak Trap (OTP) 12
+1 Cyclonic Rift (RTR) 35
+1 Swan Song (THS) 65
+1 Hedron Archive (JMP) 468
+1 Imprisoned in the Moon (FDN) 156
+1 Foundry Inspector (BRR) 16
+1 Whir of Invention (KLR) 73
+1 Paradox Engine (KLR) 259
+1 Jhoira's Familiar (DAR) 220
+1 Sai, Master Thopterist (M19) 69
+1 Manifold Key (M20) 230
+1 Emry, Lurker of the Loch (MUL) 74
+1 Midnight Clock (ELD) 54
+1 Mirrormade (ELD) 55
+1 Arcane Signet (ANB) 117
+1 Teferi, Master of Time (M21) 75
+1 Ornithopter of Paradise (J25) 153
+1 Consider (MID) 44
+1 Hullbreaker Horror (VOW) 63
+1 Moonsnare Prototype (NEO) 69
+1 Otawara, Soaring City (NEO) 271
+1 An Offer You Can't Refuse (FDN) 160
+1 Witness Protection (FDN) 168
+1 The Mightstone and Weakstone (BRO) 238
+1 Mystic Remora (TLE) 16
+1 The Reality Chip (NEO) 74
+1 Faerie Mastermind (MOM) 58
+1 Rhystic Study (FCA) 31
+1 Collector's Vault (WOE) 244
+1 Braided Net (LCI) 47
+1 Chimil, the Inner Sun (LCI) 249
+1 Forensic Gadgeteer (MKM) 57
+1 A-The One Ring (LTR) 246
+1 Three Steps Ahead (OTJ) 75
+1 Padeem, Consul of Innovation (J25) 62
+1 Sink into Stupor (MH3) 241
+1 Strix Serenade (MH3) 71
+1 Vedalken Archmage (JMP) 187
+1 Valley Floodcaller (BLB) 79
+1 Unable to Scream (DSK) 78
+1 High Fae Trickster (FDN) 40
+1 Repurposing Bay (DFT) 56
+1 Ugin, Eye of the Storms (TDM) 1
+1 Hydro-Man, Fluid Felon (SPM) 33
+1 Mishra's Bauble (BRR) 34
+1 Ornithopter (BRR) 37
+1 Uthros, Titanic Godcore (EOE) 260
+1 Ultron, Artificial Malevolence (MSH) 252

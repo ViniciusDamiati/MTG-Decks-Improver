@@ -1,0 +1,89 @@
+Commander
+1 Prismari, the Inspiration (SOS) 212
+
+Deck
+1 A-Vivi Ornitier (FIN) 248
+1 Abrade (VOW) 139
+1 Arcane Signet (ANB) 117
+1 Arid Mesa (SPG) 109
+1 Baral, Chief of Compliance (KLR) 42
+1 Baral's Expertise (KLR) 43
+1 Big Score (SNC) 102
+1 Birgi, God of Storytelling (KHM) 123
+1 Bloodstained Mire (MH3) 216
+1 Boomerang Basics (TLA) 46
+1 Brainstorm (TLE) 155
+1 Brazen Borrower (ELD) 39
+1 Chandra, Hope's Beacon (MOM) 134
+1 Chandra, Torch of Defiance (KLR) 117
+1 Command Tower (ANB) 118
+1 Archmage Emeritus (STX) 37
+1 Conduit Pylons (OTJ) 254
+1 Consider (MID) 44
+1 Consult the Star Charts (EOE) 51
+1 Cryptic Command (FCA) 29
+1 Emeritus of Ideation (SOS) 45
+1 Expressive Iteration (SOA) 64
+1 Fiery Inscription (LTR) 126
+1 Flame Slash (DDK) 60
+1 Flooded Strand (MH3) 220
+1 Frantic Search (ULG) 32
+1 Frostboil Snarl (STX) 265
+1 Guttersnipe (FDN) 716
+1 Hexing Squelcher (ECL) 145
+1 Hidden Grotto (BLB) 254
+8 Island (KTK) 252
+1 Izzet Signet (RVR) 261
+1 Jeska's Will (SOA) 44
+1 Lightning Bolt (STA) 42
+1 Maddening Hex (SPG) 70
+1 Misty Rainforest (SPG) 111
+8 Mountain (KTK) 256
+1 Opt (M21) 59
+1 Polluted Delta (MH3) 224
+1 Ponder (LRW) 79
+1 Preordain (M11) 70
+1 Prismari Charm (SOS) 211
+1 Prismari Command (STX) 214
+1 Pyretic Ritual (SOA) 46
+1 Ragavan, Nimble Pilferer (MUL) 86
+1 Ral, Crackling Wit (BLB) 230
+1 Ral, Monsoon Mage (MH3) 247
+1 Ral, Storm Conduit (WAR) 211
+1 Repeal (IMA) 70
+1 Resonating Lute (SOS) 221
+1 Restless Spire (WOE) 260
+1 Riverglide Pathway (ZNR) 264
+1 Roaring Furnace // Steaming Sauna (DSK) 230
+1 Scalding Tarn (SPG) 112
+1 Scorching Shot (OTJ) 145
+1 Seething Song (MRD) 104
+1 Shivan Reef (DMU) 255
+1 Shore Up (DMU) 64
+1 Slick Sequence (OTJ) 233
+1 Spirebluff Canal (OTJ) 270
+1 Spiteful Banditry (LTR) 149
+1 Steam Vents (GRN) 257
+1 Stifle (SCG) 52
+1 Stock Up (DFT) 67
+1 Storm of Saruman (LTR) 72
+1 Storm-Kiln Artist (STX) 115
+1 Storm's Wrath (THB) 157
+1 Stormcarved Coast (VOW) 265
+1 Strangle (SNC) 125
+1 Strike It Rich (J21) 521
+1 Sulfur Falls (DAR) 247
+1 Sweltering Suns (AKR) 176
+1 Talisman of Creativity (MH1) 231
+1 Temple of Epiphany (FDN) 699
+1 The Scarlet Witch (MSH) 151
+1 Third Path Iconoclast (BRO) 223
+1 Thousand-Year Storm (GRN) 207
+1 Thundering Falls (MKM) 269
+1 Ugin, Eye of the Storms (TDM) 1
+1 Urabrask (MOM) 169
+1 Wan Shi Tong, Librarian (TLA) 78
+1 Wooded Foothills (KTK) 249
+1 Worn Powerstone (MH3) 298
+1 Young Pyromancer (J25) 618
+1 Part the Waterveil (PIO) 366
