@@ -1,0 +1,64 @@
+Commander
+1 Momo, Friendly Flier (TLA) 29
+
+Deck
+40 Plains (TLA) 282
+1 Authority of the Consuls (FIC) 232
+1 Battlefield Raptor (KHM) 3
+1 Healer's Hawk (FDN) 142
+1 Loyal Pegasus (M20) 28
+1 Mandibular Kite (MH3) 34
+1 Miner's Guidewing (LCI) 24
+1 Momo, Playful Pet (TLA) 30
+1 Nurturing Pixie (OTJ) 20
+1 Ranger's Hawk (AFR) 37
+1 Ruin-Lurker Bat (LCI) 33
+1 Segovian Angel (MH1) 25
+1 Prairie Survivalist (Y24) 1
+1 Skyknight Squire (FDN) 23
+1 Staff of the Storyteller (ONC) 10
+1 Aven Interrupter (OTJ) 4
+1 Clarion Conqueror (TDM) 5
+1 Jackdaw Savior (BLB) 18
+1 Sage of the Skies (TDM) 22
+1 Welcoming Vampire (VOW) 46
+1 Akroma's Will (FCA) 21
+1 Wojek Investigator (MKM) 36
+1 Thraben Watcher (MH2) 34
+1 Legion Angel (ZNR) 23
+1 Elspeth, Storm Slayer (TDM) 11
+1 Moonshaker Cavalry (WOE) 21
+1 Lyra Dawnbringer (FDN) 707
+1 Elspeth, Sun's Champion (PIO) 321
+1 Serra's Guardian (M20) 310
+1 Sigarda's Summons (VOW) 36
+1 Zetalpa, Primal Dawn (RIX) 30
+1 Arcane Signet (ANB) 117
+1 Akroma's Memorial (SPG) 0
+1 Summon: Bahamut (FIN) 1
+1 Swiftfoot Boots (FDN) 258
+1 Lightning Greaves (MRD) 199
+1 Waystone's Guidance (Y25) 3
+1 Mind Stone (WTH) 153
+1 Ossification (ONE) 26
+1 Path to Exile (OTP) 6
+1 Swords to Plowshares (STA) 10
+1 Final Showdown (OTJ) 11
+1 Get Lost (LCI) 14
+1 Farewell (NEO) 13
+1 Cooped Up (WOE) 8
+1 Oketra's Monument (AKR) 277
+1 Pearl Medallion (MH3) 294
+1 Land Tax (WOT) 9
+1 Flowering of the White Tree (LTR) 15
+1 Ghostly Prison (SPG) 19
+1 Teferi's Protection (STA) 11
+1 Smothering Tithe (WOT) 13
+1 Tempest Hawk (TDM) 31
+1 Sephara, Sky's Blade (M20) 36
+1 Selfless Spirit (SIR) 42
+1 Herald's Horn (JMP) 469
+1 Flare of Fortitude (MH3) 26
+1 Steel-Plume Marshal (JMP) 5
+1 Dawn's Truce (BLB) 9
+1 Rally of Wings (WAR) 27

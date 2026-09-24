@@ -1,0 +1,82 @@
+Commander
+1 Tezzeret, Master of the Bridge (WAR) 275
+
+Deck
+10 Swamp (TDM) 282
+13 Island (TDM) 280
+1 Watery Grave (GRN) 259
+1 Arcane Signet (ANB) 117
+1 Simulacrum Synthesizer (BIG) 6
+1 Solemn Simulacrum (FDN) 257
+1 Paradox Engine (KLR) 259
+1 Chromatic Lantern (BRR) 10
+1 A-The One Ring (LTR) 246
+1 Emporium Thopterist (Y24) 5
+1 Storm of Saruman (LTR) 72
+1 Polluted Delta (MH3) 224
+1 Swiftfoot Boots (FDN) 258
+1 Tezzeret, Betrayer of Flesh (NEO) 84
+1 Wurmcoil Engine (BRR) 63
+1 Ornithopter (BRR) 37
+1 Bolas's Citadel (WAR) 79
+1 Springleaf Drum (BRR) 55
+1 Urn of Godfire (MOM) 266
+1 Coldsteel Heart (CSP) 136
+1 Myr Convert (ONE) 234
+1 Alloy Myr (JMP) 457
+1 Palladium Myr (M21) 234
+1 Midnight Clock (ELD) 54
+1 Platinum Angel (BRR) 41
+1 Seat of the Synod (J25) 773
+1 Vault of Whispers (J25) 780
+1 Dimir Locket (GRN) 234
+1 Mistvault Bridge (MH2) 249
+1 Mishra's Bauble (BRR) 34
+1 Tormod's Crypt (M21) 241
+1 Padeem, Consul of Innovation (J25) 62
+1 Forensic Gadgeteer (MKM) 57
+1 Sai, Master Thopterist (M19) 69
+1 Counterspell (MAR) 52
+1 The Reality Chip (NEO) 74
+1 Cyclonic Rift (RTR) 35
+1 Oracle of the Alpha (Y23) 4
+1 Emry, Lurker of the Loch (MUL) 74
+1 Foundry Inspector (BRR) 16
+1 Haunt the Network (DFT) 207
+1 Demonic Junker (DFT) 83
+1 Kappa Cannoneer (MH3) 270
+1 Baleful Strix (BLC) 86
+1 Mind Stone (WTH) 153
+1 Thoughtcast (SPG) 0
+1 Pactdoll Terror (DFT) 99
+1 Thought Monitor (J25) 373
+1 Liberator, Urza's Battlethopter (BRO) 237
+1 Phyrexian Metamorph (NPH) 42
+1 Scrap Trawler (BRR) 49
+1 Steel Overseer (M20) 239
+1 Transit Mage (DFT) 70
+1 Deadly Dispute (J25) 115
+1 Thirst for Knowledge (NEO) 85
+1 Withering Torment (DSK) 124
+1 Fabricate (SPG) 20
+1 Marionette Apprentice (MH3) 100
+1 Encroaching Mycosynth (ONE) 47
+1 Mystic Forge (BRR) 36
+1 Swan Song (HA3) 9
+1 Otawara, Soaring City (NEO) 271
+1 Archway of Innovation (MH3) 214
+1 Darksteel Citadel (M15) 242
+1 Inventors' Fair (EOS) 21
+1 Command Tower (ELD) 333
+1 Spire of Industry (KLR) 285
+1 Underground River (BRO) 267
+1 Sunken Hollow (BFZ) 249
+1 Urza, Lord High Artificer (FCA) 5
+1 Uthros, Titanic Godcore (EOE) 260
+1 Infernal Grasp (MID) 107
+1 Tezzeret, Cruel Captain (EOE) 2
+1 Vexing Bauble (MH3) 212
+1 Rook Turret (FIN) 69
+1 Filigree Attendant (J25) 312
+1 Feed the Swarm (ZNR) 102
+1 Akroma's Memorial (SPG) 0

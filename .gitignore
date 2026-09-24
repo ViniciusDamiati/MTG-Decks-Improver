@@ -1,4 +1,5 @@
 # Scryfall bulk data dumps (multi-GB, re-downloadable from https://api.scryfall.com/bulk-data)
+*.jsonl.gz
 oracle-cards-*.jsonl
 all-cards-*.jsonl
 default-cards-*.jsonl

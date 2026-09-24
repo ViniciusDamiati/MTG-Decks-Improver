@@ -1,0 +1,75 @@
+Commander
+1 Beorn the Fierce (HOB) 119
+
+Deck
+1 Llanowar Elves (FDN) 227
+1 Elvish Mystic (HOC) 205
+1 Birds of Paradise (BLC) 81
+1 Rampant Growth (J25) 704
+1 Cultivate (M21) 177
+1 Arcane Signet (ELD) 331
+1 Wood Elves (HOB) 142
+1 Selvala, Heart of the Wilds (JMP) 429
+1 Solemn Simulacrum (FDN) 257
+1 Beast Within (MAR) 75
+1 Ram Through (IKO) 170
+1 Prizefight (SNC) 154
+1 Voracious Hydra (M20) 200
+1 Kogla, the Titan Ape (IKO) 162
+1 Chomping Changeling (ECL) 172
+1 Ugin, the Ineffable (WAR) 2
+1 Beast Whisperer (GRN) 123
+1 Shamanic Revelation (SOA) 57
+1 Rishkar's Expertise (KLR) 180
+1 Toski, Bearer of Secrets (KHM) 197
+1 Tireless Tracker (J25) 729
+1 Eternal Witness (AA2) 13
+1 Regrowth (SOS) 145
+1 Heroic Intervention (M21) 188
+1 Veil of Summer (M20) 198
+1 Tamiyo's Safekeeping (NEO) 211
+1 Swiftfoot Boots (FDN) 258
+1 Shadowspear (THB) 236
+1 The Great Henge (ELD) 161
+1 Rhonas's Monument (AKR) 279
+1 Roaming Throne (LCI) 258
+1 Elder Gargaroth (M21) 179
+1 Craterhoof Behemoth (TDM) 138
+1 Vaultborn Tyrant (BIG) 20
+1 Rampaging Baloths (FDN) 645
+1 Titan of Industry (SNC) 159
+1 Vorinclex, Voice of Hunger (MUL) 29
+1 Ayula, Queen Among Bears (J21) 543
+1 Goreclaw, Terror of Qal Sisma (M19) 186
+1 Beorn, Reluctant Host (HOB) 118
+1 Lumra, Bellow of the Woods (BLB) 183
+1 Surrak and Goreclaw (MOM) 337
+1 Owlbear (AFR) 198
+1 Professor of Zoomancy (STX) 140
+1 Little Bear (HOB) 128
+1 Ordinary Bear (HOB) 133
+1 Gigantic Big Bear (HOB) 126
+1 Mother Bear (J21) 604
+1 Grizzly Bears (J21) 580
+1 Bear Cub (FDN) 552
+1 Studious First-Year (SOS) 162
+1 Vastlands Scavenger (SOS) 166
+1 The Earth King (TLA) 172
+1 Radagast of Rhosgobel (HOB) 136
+1 Beorn's Hospitality (HOB) 120
+1 Dancing from Dark to Dawn (HOB) 123
+1 Nissa, Who Shakes the World (WAR) 169
+1 Once Upon a Time (ELD) 169
+1 Explore (TLE) 259
+1 Inspiring Call (TLE) 168
+1 Snakeskin Veil (TDM) 159
+1 Ozolith, the Shattered Spire (MOM) 198
+1 Vorinclex, Monstrous Raider (KHM) 199
+1 Argoth, Sanctum of Nature (BRO) 256
+1 Three Tree City (BLB) 260
+1 Castle Garenbrig (ELD) 240
+1 Rogue's Passage (HOC) 212
+1 Boseiju, Who Endures (NEO) 266
+1 Nykthos, Shrine to Nyx (EA2) 24
+1 Reliquary Tower (M19) 254
+29 Forest (FDN) 281

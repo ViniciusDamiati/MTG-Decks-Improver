@@ -1,0 +1,82 @@
+Commander
+1 Tifa, Martial Artist (FIC) 6
+
+Deck
+8 Plains (TDM) 278
+6 Mountain (TDM) 284
+10 Forest (TDM) 286
+1 Halana and Alena, Partners (FDN) 659
+1 Branching Evolution (MH3) 285
+1 Doubling Season (FDN) 216
+1 All Will Be One (ONE) 118
+1 Ouroboroid (EOE) 201
+1 Hamza, Guardian of Arashin (HA4) 18
+1 Iroas, God of Victory (PIO) 309
+1 Kutzil, Malamet Exemplar (LCI) 232
+1 Anim Pakal, Thousandth Moon (LCI) 223
+1 Anzrag, the Quake-Mole (MKM) 186
+1 Vorinclex, Monstrous Raider (KHM) 199
+1 Toski, Bearer of Secrets (SPG) 60
+1 Rishkar, Peema Renegade (J25) 708
+1 Selvala, Heart of the Wilds (JMP) 429
+1 Kodama of the West Tree (NEO) 199
+1 Bristly Bill, Spine Sower (OTJ) 157
+1 Elspeth, Storm Slayer (TDM) 11
+1 Elesh Norn, Mother of Machines (ONE) 10
+1 Shalai, Voice of Plenty (DOM) 35
+1 Swords to Plowshares (STA) 10
+1 Journey to Nowhere (OTP) 3
+1 Ossification (ONE) 26
+1 Unbreakable Formation (RNA) 29
+1 Birds of Paradise (BLC) 81
+1 Akroma's Will (FCA) 21
+1 Elvish Mystic (HOC) 205
+1 Hardened Scales (J21) 582
+1 Utopia Sprawl (WOT) 63
+1 Cankerbloom (ONE) 161
+1 Heroic Intervention (M21) 188
+1 Ozolith, the Shattered Spire (MOM) 198
+1 Lightning Greaves (MRD) 199
+1 Up the Beanstalk (WOE) 195
+1 Cultivate (STA) 51
+1 Champion of Lambholt (JMP) 383
+1 Garruk's Uprising (FDN) 220
+1 Kami of Whispered Hopes (MOM) 196
+1 Krosan Grip (STA) 53
+1 Mossborn Hydra (FDN) 107
+1 Path to Exile (OTP) 6
+1 Railway Brawler (OTJ) 175
+1 Surrak and Goreclaw (MOM) 337
+1 Virtue of Loyalty (WOE) 38
+1 The Great Henge (ELD) 161
+1 Boseiju, Who Endures (NEO) 266
+1 Stomping Ground (RNA) 259
+1 Battlefield Forge (BRO) 257
+1 Inspiring Vantage (OTJ) 269
+1 Sundown Pass (VOW) 266
+1 Conclave Mentor (M21) 216
+1 Xenagos, God of Revels (PIO) 318
+1 Mirari's Wake (HA3) 23
+1 Temple Garden (GRN) 258
+1 Jetmir's Garden (SNC) 250
+1 The Ozolith (IKO) 237
+1 Arcane Signet (ANB) 117
+1 Teferi's Protection (STA) 11
+1 The Earth Crystal (FIN) 184
+1 Arid Mesa (SPG) 109
+1 Cabaretti Courtyard (SNC) 249
+1 Cavern of Souls (LCI) 269
+1 Command Tower (ANB) 118
+1 Reliquary Tower (M19) 254
+1 Wooded Foothills (MH3) 236
+1 Windswept Heath (MH3) 235
+1 Cathars' Crusade (JMP) 95
+1 Forgotten Ancient (J25) 147
+1 Abzan Falconer (J21) 34
+1 Goreclaw, Terror of Qal Sisma (M19) 186
+1 Krenko, Tin Street Kingpin (J25) 572
+1 Abzan Battle Priest (J21) 33
+1 Inspiring Call (FDN) 226
+1 Rhythm of the Wild (RNA) 201
+1 Defiler of Vigor (DMU) 160
+1 Chromatic Lantern (BRR) 10

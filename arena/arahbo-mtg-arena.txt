@@ -1,0 +1,72 @@
+Commander
+1 Arahbo, the First Fang (FDN) 2
+
+Deck
+1 Savannah Lions (FDN) 146
+1 Sacred Cat (AKR) 34
+1 Ajani's Pridemate (FDN) 135
+1 Qala, Ajani's Pridemate (J25) 32
+1 Helpful Hunter (FDN) 16
+1 Prideful Parent (FDN) 21
+1 King of the Pride (J25) 214
+1 Skyknight Squire (FDN) 23
+1 Regal Caracal (FDN) 579
+1 Brimaz, King of Oreskos (J25) 58
+1 Jazal Goldmane (FDN) 497
+1 Leonin Warleader (M19) 23
+1 Felidar Savior (FDN) 12
+1 Cat Collector (FDN) 4
+1 Adorned Pouncer (HA4) 1
+1 Lion Sash (NEO) 26
+1 Leonin Vanguard (M19) 22
+1 Kutzil's Flanker (LCI) 20
+1 Felidar Sovereign (J25) 198
+1 Esper Sentinel (J21) 75
+1 Giver of Runes (HA7) 2
+1 Mother of Runes (AA2) 1
+1 Selfless Spirit (SIR) 42
+1 Felidar Cub (FDN) 573
+1 Lionheart Glimmer (DSK) 19
+1 Kemba, Kha Enduring (ONE) 19
+1 Restoration Angel (J21) 117
+1 Thalia, Guardian of Thraben (VOW) 38
+1 Monastery Mentor (MOM) 28
+1 Elite Spellbinder (STX) 17
+1 Ranger-Captain of Eos (MH1) 21
+1 Angel of Invention (KLR) 7
+1 Swords to Plowshares (SPG) 54
+1 Path to Exile (LTC) 175
+1 Unbreakable Formation (RNA) 29
+1 Akroma's Will (SOA) 1
+1 Ephemerate (MAR) 44
+1 Stroke of Midnight (FDN) 148
+1 Claws Out (FDN) 6
+1 Winds of Abandon (SOA) 12
+1 Idyllic Tutor (THB) 24
+1 Divine Visitation (GRN) 10
+1 Anointed Procession (AKR) 2
+1 Intangible Virtue (WOT) 6
+1 Ajani's Welcome (M19) 6
+1 Caretaker's Talent (BLB) 6
+1 Authority of the Consuls (FDN) 137
+1 Cathars' Crusade (JMP) 95
+1 Rally the Ranks (KHM) 20
+1 Cast Out (AKR) 9
+1 Prison Realm (WAR) 26
+1 Arcane Signet (ELD) 331
+1 Mind Stone (HA1) 19
+1 Swiftfoot Boots (FDN) 258
+1 Herald's Horn (JMP) 469
+1 Heraldic Banner (FDN) 254
+1 Banner of Kinship (FDN) 127
+1 Patchwork Banner (BLB) 247
+1 Vanquisher's Banner (XLN) 251
+1 Pearl Medallion (MH3) 294
+1 Portable Hole (AFR) 33
+1 Ajani, Caller of the Pride (FDN) 134
+1 Ajani, Strength of the Pride (M20) 2
+1 Three Tree City (BLB) 260
+1 Cavern of Souls (LCI) 269
+1 Minas Tirith (LTR) 256
+1 Animal Sanctuary (M21) 242
+32 Plains (FDN) 272

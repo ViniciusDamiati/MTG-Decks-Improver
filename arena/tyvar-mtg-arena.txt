@@ -3,7 +3,7 @@ Commander
 
 Deck
 7 Swamp (FDN) 277
-8 Forest (FDN) 281
+7 Forest (FDN) 281
 1 Tyvar, the Pummeler (DSK) 202
 1 Tyvar, Jubilant Brawler (ONE) 218
 1 Llanowar Elves (FDN) 227
@@ -88,3 +88,4 @@ Deck
 1 Leaf Gilder (JMP) 408
 1 Lys Alana Dignitary (ECL) 180
 1 The Great Henge (ELD) 161
+1 Elven Passage (HOB) 181

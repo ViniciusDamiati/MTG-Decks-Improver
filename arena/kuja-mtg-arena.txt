@@ -1,0 +1,80 @@
+Commander
+1 Kuja, Genome Sorcerer (FIN) 232
+
+Deck
+12 Swamp (FIN) 300
+13 Mountain (FIN) 303
+1 Black Mage's Rod (FIN) 90
+1 Dark Confidant (FIN) 94
+1 Jadar, Ghoulcaller of Nephalia (MID) 108
+1 Cornered by Black Mages (FIN) 93
+1 Warren Soultrader (MH3) 110
+1 Harmonic Prodigy (J21) 466
+1 Black Waltz No. 3 (FIN) 214
+1 Unsparing Boltcaster (TDM) 130
+1 A-Rockslide Sorcerer (ZNR) A-154
+1 Roaming Throne (LCI) 258
+1 Purphoros, God of the Forge (PIO) 296
+1 Vicious Rumors (GRN) 89
+1 Circle of Power (FIN) 92
+1 Boltwave (FDN) 79
+1 Unclaimed Territory (XLN) 258
+1 Heartfire Immolator (FDN) 201
+1 Melt Through (YBRO) 10
+1 Play with Fire (MID) 154
+1 Shock (MKM) 144
+1 Thunder Magic (FIN) 165
+1 Abrade (FDN) 188
+1 Impact Tremors (FDN) 717
+1 Pyroclasm (DSK) 149
+1 Shredded Sails (IKO) 136
+1 Scorching Shot (OTJ) 145
+1 Wizard's Lightning (DOM) 152
+1 Bloodchief's Thirst (ZNR) 94
+1 Fell (BLB) 95
+1 Feed the Swarm (ZNR) 102
+1 Infernal Grasp (MID) 107
+1 Shoot the Sheriff (OTJ) 106
+1 Murder (DSK) 110
+1 Hero's Downfall (FDN) 175
+1 Nocturnal Hunger (BLB) 102
+1 Withering Torment (DSK) 124
+1 Bake into a Pie (FDN) 169
+1 Siege Smash (MH3) 136
+1 Skycrash (DFT) 146
+1 Arcane Signet (ANB) 117
+1 Swiftfoot Boots (FDN) 258
+1 Jet Medallion (MH3) 292
+1 Phyrexian Arena (FDN) 180
+1 Fiery Inscription (LTR) 126
+1 Faithless Looting (SIS) 40
+1 Bloodsoaked Insight (MH3) 252
+1 Rakdos Charm (C16) 218
+1 Laughing Mad (FIN) 143
+1 Demand Answers (MKM) 122
+1 Big Score (SNC) 102
+1 Dark Ritual (STA) 26
+1 Mysidian Elder (FIN) 145
+1 Queen Brahne (FIN) 149
+1 Coruscation Mage (BLB) 131
+1 Firebrand Archer (FDN) 196
+1 Guttersnipe (FDN) 716
+1 Storm-Kiln Artist (STX) 115
+1 Haunted Ridge (MID) 263
+1 Sulfurous Springs (DMU) 256
+1 Bloodstained Mire (MH3) 216
+1 Cavern of Souls (LCI) 269
+1 Arid Mesa (SPG) 109
+1 Command Tower (ANB) 118
+1 Fabled Passage (BLB) 252
+1 Polluted Delta (MH3) 224
+1 Reliquary Tower (M19) 254
+1 Scalding Tarn (SPG) 112
+1 Artist's Talent (BLB) 124
+1 City on Fire (MOM) 135
+1 Solphim, Mayhem Dominus (ONE) 150
+1 Blazemire Verge (DSK) 256
+1 Lindblum, Industrial Regency (FIN) 285
+1 Deadly Dispute (FCA) 33
+1 Thrill of Possibility (FDN) 210
+1 Unexpected Windfall (HBG) 192
