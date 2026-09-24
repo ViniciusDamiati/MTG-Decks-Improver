@@ -45,7 +45,9 @@ lives in `DECK-IMPROVEMENT-GUIDE.md` — read it before doing any deck-improveme
   Refresh periodically (new sets/errata land every few weeks) with
   `python .claude/scripts/refresh_card_db.py`. Schema: `.claude/scripts/schema.sql`.
   **Does not replace `arena-legality-checker`** — the dump has only the newest printing
-  per card, not full per-printing/Arena-availability data.
+  per card, not full per-printing/Arena-availability data. To load a manually-downloaded
+  Scryfall bulk file instead (e.g. `all-cards`, which is one row per printing rather than
+  per unique card), use `python .claude/scripts/import_bulk_file.py <path-to-file.jsonl.gz>`.
 - **mtgtop8 cEDH — always the FIRST reference for competitive data**:
   https://mtgtop8.com/format?f=cEDH. Check the commander's competitive record there
   before consulting EDHREC or anything else; if the commander is absent from cEDH,
