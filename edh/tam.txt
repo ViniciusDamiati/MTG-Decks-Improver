@@ -1,0 +1,101 @@
+1 An Offer You Can't Refuse
+1 Ancient Tomb
+1 Arcane Signet
+1 Arid Mesa
+1 Assassin's Trophy
+1 Badlands
+1 Bayou
+1 Birds of Paradise
+1 Bloodstained Mire
+1 Borne Upon a Wind
+1 Boseiju, Who Endures
+1 Brainstorm
+1 Breeding Pool
+1 Chain of Vapor
+1 Chandra, Torch of Defiance
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Dack Fayden
+1 Deadly Rollick
+1 Deflecting Swat
+1 Delighted Halfling
+1 Demonic Consultation
+1 Demonic Tutor
+1 Dramatic Reversal
+1 Enlightened Tutor
+1 Esper Sentinel
+1 Felidar Guardian
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Grand Abolisher
+1 Grim Monolith
+1 Grist, the Hunger Tide
+1 Hallowed Fountain
+1 Imperial Seal
+1 Interplanar Beacon
+1 Isochron Scepter
+1 Jace, Wielder of Mysteries
+1 Jace, the Mind Sculptor
+1 Karn, the Great Creator
+1 Lotus Petal
+1 Loyal Tutor
+1 Mana Confluence
+1 Mana Drain
+1 Mana Vault
+1 Marsh Flats
+1 Misty Rainforest
+1 Mox Amber
+1 Mox Diamond
+1 Mystic Remora
+1 Mystical Tutor
+1 Narset, Parter of Veils
+1 Necropotence
+1 Noble Hierarch
+1 Oath of Teferi
+1 Oko, Thief of Crowns
+1 Orcish Bowmasters
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Plateau
+1 Polluted Delta
+1 Ponder
+1 Rhystic Study
+1 Saheeli Rai
+1 Sanctum Lurker
+1 Savannah
+1 Scalding Tarn
+1 Scrubland
+1 Silence
+1 Smothering Tithe
+1 Sol Ring
+1 Steam Vents
+1 Swan Song
+1 Swords to Plowshares
+1 Taiga
+1 Tainted Pact
+1 Teferi's Protection
+1 Teferi, Temporal Archmage
+1 Teferi, Time Raveler
+1 Tezzeret the Seeker
+1 Thassa's Oracle
+1 The Chain Veil
+1 The One Ring
+1 The Wandering Emperor
+1 Tropical Island
+1 Tundra
+1 Underground Sea
+1 Vampiric Tutor
+1 Veil of Summer
+1 Verdant Catacombs
+1 Volcanic Island
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldly Tutor
+1 Wrenn and Six
+
+1 Tam, the Possibility
