@@ -1,0 +1,101 @@
+1 Arcane Signet
+1 Arid Mesa
+1 Atraxa, Praetors' Voice
+1 Badlands
+1 Bayou
+1 Birds of Paradise
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bloom Tender
+1 Breeding Pool
+1 Brokers Ascendancy
+1 Chandra, Chill of Compliance
+1 Chandra, Legacy of Fire
+1 Chandra, Torch of Defiance
+1 Chromatic Lantern
+1 City of Brass
+1 Command Tower
+1 Commodore Guff
+1 Counterspell
+1 Cyclonic Rift
+1 Deepglow Skate
+1 Deflecting Swat
+1 Delighted Halfling
+1 Demonic Tutor
+1 Doubling Season
+1 Elspeth, Storm Slayer
+1 Elspeth, Sun's Champion
+1 Exotic Orchard
+1 Farewell
+1 Farseek
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flux Channeler
+1 Godless Shrine
+1 Grist, the Hunger Tide
+1 Hallowed Fountain
+1 Ichormoon Gauntlet
+1 Interplanar Beacon
+1 Jace, the Mind Sculptor
+1 Karn's Bastion
+1 Karn, the Great Creator
+1 Liliana, Dreadhorde General
+1 Loyal Tutor
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Mox Amber
+1 Narset, Parter of Veils
+1 Nature's Lore
+1 Nicol Bolas, Dragon-God
+1 Oath of Nissa
+1 Oath of Teferi
+1 Oko, Thief of Crowns
+1 Onakke Oathkeeper
+1 Overgrown Tomb
+1 Plateau
+1 Polluted Delta
+1 Reflecting Pool
+1 Rhystic Study
+1 Ripples of Potential
+1 Sacred Foundry
+1 Sanctum Lurker
+1 Savannah
+1 Scalding Tarn
+1 Scrubland
+1 Smothering Tithe
+1 Sol Ring
+1 Spark Double
+1 Steam Vents
+1 Stomping Ground
+1 Swan Song
+1 Swords to Plowshares
+1 Taiga
+1 Tamiyo, Field Researcher
+1 Teferi's Protection
+1 Teferi, Hero of Dominaria
+1 Teferi, Master of Time
+1 Teferi, Temporal Archmage
+1 Teferi, Time Raveler
+1 Tekuthal, Inquiry Dominus
+1 Temple Garden
+1 Tezzeret's Gambit
+1 The Chain Veil
+1 The Theorist, Jace Beleren
+1 The Wandering Emperor
+1 Three Visits
+1 Tropical Island
+1 Tundra
+1 Ugin, the Spirit Dragon
+1 Underground Sea
+1 Verdant Catacombs
+1 Volcanic Island
+1 Vraska, Betrayal's Sting
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Wrenn and Realmbreaker
+1 Wrenn and Six
+
+1 Tam, the Possibility
